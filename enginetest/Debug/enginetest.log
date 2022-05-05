@@ -1,0 +1,6 @@
+﻿  Engine.cpp
+C:\Users\casde\Desktop\enginetest\enginetest\Engine.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+  TestICE.cpp
+  Создание кода...
+  enginetest.vcxproj -> C:\Users\casde\Desktop\enginetest\Debug\enginetest.exe
